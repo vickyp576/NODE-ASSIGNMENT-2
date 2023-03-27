@@ -1,0 +1,2 @@
+# prac
+Input in NodeJS
